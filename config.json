@@ -1,0 +1,15 @@
+{
+  "token":"DISCORD BOT TOKEN",
+  "prefix": "r.",
+  
+  "clientID": "SPOTIFY CLİENT ID",
+  "clientSecret": "SPOTIFY CLIENTSECRET",
+  "nodes": [
+    {
+    "host" : "LAVACAST SERVER",
+    "port" : 80,
+    "password" : "LAVACAST PASSWORD",
+    "secure" : false
+    }
+  ]
+  }
